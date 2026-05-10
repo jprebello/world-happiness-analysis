@@ -108,7 +108,7 @@ Anos (2015, 2016, 2017, 2018, 2019)
 
 Top 10 (média), Bottom 10 (média)
 
-4. Gráfico de Barra
+4. Gráfico de Colunas
 
 Média de Felicidade por Continente
 
